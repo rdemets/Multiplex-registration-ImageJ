@@ -1,7 +1,7 @@
 
 
 
-# Purposes
+# Motivations
 
 The aim of this macro is to allow users to register multiplex images (CZI extension) using the first DAPI channel as a reference.
 
