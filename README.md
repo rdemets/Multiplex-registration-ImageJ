@@ -5,7 +5,7 @@ The aim of this macro is to allow users to register multiplex images (CZI extens
 ## How to install
 
 
-To install, drop the file in Fiji.app>macros>toolsets folder. Restart Fiji and the macro name will then appear under the **>>** menu on the right hand side of Fiji bar.
+To install, drop the file in `Fiji.app>macros>toolsets` folder. Restart Fiji and the macro name will then appear under the **>>** menu on the right hand side of Fiji bar.
 
 
 ## Requirements
